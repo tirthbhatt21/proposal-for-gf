@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tirthbhatt21/proposal-for-gf/static/css/main.e6c13ad2.css",
+    "main.js": "/tirthbhatt21/proposal-for-gf/static/js/main.e5494f36.js",
+    "static/js/453.b6ab1edd.chunk.js": "/tirthbhatt21/proposal-for-gf/static/js/453.b6ab1edd.chunk.js",
+    "index.html": "/tirthbhatt21/proposal-for-gf/index.html",
+    "main.e6c13ad2.css.map": "/tirthbhatt21/proposal-for-gf/static/css/main.e6c13ad2.css.map",
+    "main.e5494f36.js.map": "/tirthbhatt21/proposal-for-gf/static/js/main.e5494f36.js.map",
+    "453.b6ab1edd.chunk.js.map": "/tirthbhatt21/proposal-for-gf/static/js/453.b6ab1edd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e5494f36.js"
+  ]
+}
